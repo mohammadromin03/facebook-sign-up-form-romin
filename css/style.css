@@ -153,6 +153,7 @@ select {
     padding: 7px 20px;
     width: 175px;
     margin-top: 10px;
+    cursor: pointer;
 }
 .form-create-page p a,
 .form-text p a,
