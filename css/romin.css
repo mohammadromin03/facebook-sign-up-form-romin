@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+}
+.container {
+     width: 1170px;
+     margin: 0 auto;
+     padding: 0 15px;
+}
+.col-1 {
+	width: 97.4%;
+	float: left;
+	padding: 0 15px;
+}
+.col-2 {
+	width: 47.43%;
+	float: left;
+	padding: 0 15px;
+}
+.col-3 {
+	width: 30.77%;
+	float: left;
+	padding: 0 15px;
+}
+.col-4 {
+	width: 22.43%;
+	float: left;
+	padding: 0 15px;
+}
+.col-5 {
+	width: 17.43%;
+	float: left;
+	padding: 0 15px;
+}
+.col-6 {
+	width: 14.1%;
+	float: left;
+	padding: 0 15px;
+}
+.col-7 {
+	width: 11.72%;
+	float: left;
+	padding: 0 15px;
+}
+.col-8 {
+	width: 9.93%;
+	float: left;
+	padding: 0 15px;
+}
+.col-9 {
+	width: 8.54%;
+	float: left;
+	padding: 0 15px;
+}
+.col-10 {
+	width: 7.43%;
+	float: left;
+	padding: 0 15px;
+}

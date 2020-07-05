@@ -1,0 +1,209 @@
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+.header-area {
+    background-color: #415E9B;
+    padding: 20px 0;
+    overflow: hidden;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 42px;
+    margin-top: 21px;
+    display: inline-block;
+}
+
+.log-in-email {
+    width: 45%;
+    float: left;
+}
+
+.log-in-password {
+    width: 45%;
+    float: left;
+}
+
+.log-in-btn {
+    width: 10%;
+    float: left;
+}
+
+.log-in-email label,
+.log-in-password label {
+    color: #fff;
+    margin-bottom: 8px;
+    display: inline-block;
+}
+
+.log-in-email input,
+.log-in-password input {
+    width: 87%;
+    font-size: 16px;
+    padding: 6px;
+}
+
+.log-in-password a {
+    color: #9cb4d8;
+    margin-top: 7px;
+    display: inline-block;
+}
+.log-in-btn button {
+    background-color: #4267b2;
+    color: #fff;
+    border: none;
+    padding: 8px 9px;
+    margin-top: 27px;
+    cursor: pointer;
+    border-color: #29487d;
+}
+
+.form-area {
+    background: linear-gradient(white, #D3D8E8);
+    height: 100%;
+    overflow: hidden;
+}
+
+/*World*/
+.world p {
+    color: #0e385f;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 29px;
+    margin-top: 40px;
+    width: 450px;
+    word-spacing: -1px;
+}
+/*Create form*/
+.create-form {
+    padding-bottom: 20px;
+}
+.form-header-text h2 {
+	font-size: 36px;
+	color: #333;
+	margin-bottom: 0;
+}
+.form-header-text p {
+	font-size: 19px;
+	color: #1d2129;
+	margin-top: 10px;
+}
+.create-form h3 {
+    font-size: 16px;
+    color: #90949c;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.mr {
+	margin-right: 14px;
+}
+.form-sign-up input[type="text"] {
+    width: 44.3%;
+    padding: 8px 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid #ccd0d5;
+    background-color: white;
+    margin-bottom: 10px;
+}
+.form-sign-up input[type="email"], 
+.form-sign-up input[type="password"] {
+    width: 96%;
+    padding: 8px 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid #ccd0d5;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+select {
+    margin-right: -6px;
+    padding: 5px;
+    font-size: 18px;
+    border: 1px solid #ddd;
+}
+
+
+
+.form-text p {
+    color: #777;
+    font-size: 11px;
+    width: 316px;
+}
+.form-create-page p {
+    border-top: 1px solid #dddfe2;
+    color: #666;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-top: 15px;
+}
+.form-sign-up button {
+    background: linear-gradient(#67ae55, #578843);
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    font-size: 19px;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    padding: 7px 20px;
+    width: 175px;
+    margin-top: 10px;
+}
+.form-create-page p a,
+.form-text p a,
+.language ul li a {
+    color: #385898;
+    text-decoration: none;
+}
+.form-create-page p a:hover,
+.form-text p a:hover,
+.language ul li a:hover,
+.language ul li a.plus:hover {
+    text-decoration: underline;
+}
+.language ul li a {
+	font-size: 12px;
+}
+.language ul li a.active {
+	color: #737373;
+}
+.language ul li {
+    display: inline-block;
+    margin-right: 5px;
+}
+.language {
+    padding-top: 30px;
+    border-bottom: 1px solid #ddd;
+}
+
+.language ul li a.plus {
+    border: 1px solid #90949c;
+    padding: 5px 7px;
+    font-weight: bold;
+}
+.facebook-info ul li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.facebook-info ul li a {
+    text-decoration: none;
+    color: #385898;
+    font-size: 12px;
+}
+.language ul,
+.facebook-info ul {
+    padding-left: 0;
+}
+.copyright-text p {
+    color: #737373;
+    font-size: 11px;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
